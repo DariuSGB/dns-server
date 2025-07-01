@@ -18,6 +18,6 @@
 10.1.41.106   dvwa.amanita.es
 # ---------------------------------
 # VLAN 403
-10.1.43.120   proxy.amanita.es
-10.1.43.120   eproxy.amanita.es
+10.1.43.130   proxy.amanita.es
+10.1.43.130   eproxy.amanita.es
 # ---------------------------------
