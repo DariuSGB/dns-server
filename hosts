@@ -5,17 +5,18 @@
 10.1.20.103   fulva.amanita.es
 10.1.20.104   ceciliae.amanita.es
 10.1.20.105   argentea.amanita.es
-10.1.20.106   server.amanita.es
-10.1.20.107   client.amanita.es
-10.1.20.108   threatx.amanita.es
+10.1.20.106   client.amanita.es
+10.1.20.107   server1.amanita.es
+10.1.20.108   server2.amanita.es
+10.1.20.109   threatx.amanita.es
 # ---------------------------------
 # VLAN 401
-10.1.41.106   mail.amanita.es
-10.1.41.106   syslog.amanita.es
-10.1.41.106   cute.amanita.es
-10.1.41.106   block.amanita.es
-10.1.41.106   cloud.amanita.es
-10.1.41.106   dvwa.amanita.es
+10.1.41.107   mail.amanita.es
+10.1.41.107   syslog.amanita.es
+10.1.41.107   cute.amanita.es
+10.1.41.107   block.amanita.es
+10.1.41.107   cloud.amanita.es
+10.1.41.107   dvwa.amanita.es
 # ---------------------------------
 # VLAN 403
 10.1.43.130   proxy.amanita.es
